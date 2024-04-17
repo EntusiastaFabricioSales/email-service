@@ -1,0 +1,3 @@
+aws.region=SUA-REGIAO
+aws.accessKeyId=SUA-CHAVE
+aws.secretKey=SUA-SECRET
